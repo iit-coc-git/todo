@@ -1,0 +1,5 @@
+## My To-Do List
+
+* Get comfortable with the command line
+* Configure git to my liking
+* Apply this knowledge everywhere
